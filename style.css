@@ -87,3 +87,22 @@ flex-shrink: 0;
 border-radius: 300px 300px 0px 0px;
 background: rgba(71, 125, 17, 0.15);
 }
+
+/****************free section*************/
+.free-section{
+    width: 1440px;
+height: 320px;
+flex-shrink: 0;
+border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+margin: 128px 240px 128px 240px;
+}
+.free-p{
+    color: rgba(39, 39, 39, 0.80);
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 35px;
+}
